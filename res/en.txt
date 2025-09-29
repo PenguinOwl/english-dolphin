@@ -1,0 +1,795 @@
+###############
+# UI ELEMENTS #
+###############
+
+いるか
+-
+Dolphin
+
+むかし、いるかにはうろこがあったよ。金剛のようなうろこ
+そのいるかが、今日ではつるつるの肌をあらわにしているね
+それはね、わたしたちの遠い祖先、ひとりの女の仕業なのさ
+-
+Once upon a time, dolphins had scales. Scales like iridescent diamonds.
+Nowadays, dolphins have smooth skin.
+That's the work of a woman, our distant ancestor.
+
+左クリック：始まる
+Alt + Enter：フルスクリーン
+右クリック：終わる
+-
+Left click: START
+Alt + Enter: FULLSCREEN
+Right click: EXIT
+
+右クリック：タイトルへ
+-
+Right click: TITLE SCREEN
+
+左クリック：リトライ
+-
+Left click: RETRY
+
+#####################
+# GAMEPLAY ELEMENTS #
+#####################
+
+イノーチ
+-
+LIFE
+
+ショット
+-
+SHOT
+
+スキルなし
+-
+NO SKILL
+
+充填完了
+-
+READY
+
+チャージ
+-
+CHARGE
+
+WASD：移動
+左クリック：ショット
+右クリック：スキル
+-
+WASD: MOVEMENT
+Left click: SHOOT
+Right click: SKILL
+
+#################
+# SHOP DIALOUGE #
+#################
+
+スキップ
+-
+SKIP
+
+なにも取得しない
+-
+Gain nothing
+
+おまけなし
+-
+× NO HP
+
+バレット
+-
+BULLET
+
+速度：ふつう
+時間：ふつう
+-
+SPEED: Normal
+RANGE: Normal
+
+おまけでイノーチ
+-
++ HP
+
+ダッシュ
+-
+DASH
+
+カーソルめがけて
+急加速する
+衝突注意
+-
+Dash quickly
+towards the
+the cursor
+
+スペア
+-
+SPARE
+
+弱いショット撃つ
+-
+Fire a
+weak bullet
+
+2つ拡散
+速度：ふつう
+時間：あまり
+-
+Double shot
+SPEED: Normal
+RANGE: Short
+
+ロック
+-
+ROCK
+
+おおきい
+速度：あまり
+時間：ふつう
+-
+Large
+SPEED: Slow
+RANGE: Normal
+
+ガラス
+-
+GLASS
+
+シールドを設置
+4秒で消える
+-
+Places a shield 
+for 4 seconds
+
+ジェミニ
+-
+GEMINI
+
+弾薬を1つ補充する
+-
+Refills one ammo
+
+ニードル
+-
+NEEDLE
+
+シールドつらぬく
+速度：あまり
+時間：ふつう
+-
+Pierces shields
+SPEED: Very Slow
+RANGE: Normal
+
+オフセット
+-
+OFFSET
+
+周囲の敵の弾を消す
+-
+Removes nearby
+enemy bullets
+
+バウンド
+-
+BOUNCE
+
+壁で跳ね返る
+速度：あまり
+時間：すごそう
+-
+Bounces off walls
+SPEED: Slow
+RANGE: Far
+
+リターナ
+-
+RETURNER
+
+どこでも弾回収
+速度：ふつう
+時間：ふつう
+-
+Always returns
+SPEED: Normal
+RANGE: Normal
+
+トリプレット
+-
+TRIPLET
+
+3つ拡散
+速度：ふつう
+時間：あまり
+-
+Triple shot
+SPEED: Normal
+RANGE: Low
+
+ロング
+-
+LONG SHOT
+
+速度：ふつう
+時間：すごそう
+-
+SPEED: Normal
+RANGE: Far
+
+ボム
+-
+BOMB
+
+大爆発
+イノーチ1減る
+-
+Big explosion
+but take damage
+
+ブースト
+-
+BOOST
+
+3秒間移動速度増加
+-
+Move faster for
+3 seconds
+
+ラッシュ
+-
+RUSH
+
+ダッシュ
+衝突しても
+こっちは無事
+-
+Dash with
+invulnerability
+and damage
+
+フリーズ
+-
+FREEZE
+
+敵と敵の弾が
+1秒止まる
+-
+Freeze enemies
+and bullets
+for 1 second
+
+ゴースト
+-
+GHOST
+
+2秒だけ弾すり抜け
+敵にはぶつかる
+-
+Dodge bullets
+for 2 seconds
+Enemies still hurt
+
+ムーン
+-
+MOON
+
+とてもおおきい
+速度：あまり
+時間：すごそう
+-
+Very large
+SPEED: Slow
+RANGE: Long
+
+ヒール
+-
+HEAL
+
+イノーチを
+1回復する
+-
+Recover 1 life
+
+セツナ
+-
+TIME SLOW
+
+1秒間
+敵の移動と弾が
+遅くなる
+-
+Enemies and
+bullets slow down
+for 1 second
+
+セーフボム
+-
+SAFE BOMB
+
+小爆発
+こっちは無事
+-
+Small explosion,
+but no damage
+
+ペネトレ
+-
+PENETRATE
+
+シールドつらぬく
+速度：すごそう
+時間：ふつう
+-
+Pierces shields
+SPEED: Fast
+RANGE: Normal
+
+スナイプ
+-
+SNIPE
+
+速度：すごすぎ
+時間：すごすぎ
+-
+SPEED: Extreme
+RANGE: Extreme
+
+スプレッド
+-
+SPREAD
+
+12つ全方位
+速度：すごそう
+時間：あまり
+-
+12 in a circle
+SPEED: Fast
+RANGE: Short
+
+バースト
+-
+BURST
+
+3つ連続
+速度：ふつう
+時間：ふつう
+-
+3 in a row
+SPEED: Normal
+RANGE: Normal
+
+インビンシブル
+-
+INVINCIBLE
+
+1秒ダメージ無効
+-
+Take no damage
+for 1 second
+
+リフレク
+-
+REFLECT
+
+壁で跳ね返る
+速度：すごそう
+時間：すごそう
+-
+Bounces off walls
+SPEED: Extreme
+RANGE: Extreme
+
+ウォール
+-
+WALL
+
+シールドを設置
+長持ちする
+-
+Places a shield
+that lasts longer
+
+##################
+# STORY DIALOUGE #
+##################
+
+ひとつの戦争が終わり、人魚はみな死んだ。勝者たるいるかたちは、海底にメガロポリスを築き上げた
+-
+A war ended, with all the merfolk dead. The victorious dolphins built a megalopolis on the ocean floor.
+
+やがて、いるかたちは版図の拡大を目的として陸上にまで進出してきた
+-
+In time, the dolphins expanded their dominion and advanced onto land.
+
+いるかたちはくろがねの武器を携え、持ち前の金剛のようなうろこで武装していた
+-
+They carried iron weapons and were armed with their own adamantine scales.
+
+ようやく火の扱いを覚えたばかりの人間が、統制された重装歩兵たるいるかに敵うはずもなかった
+-
+Mankind, who had only just mastered fire, could not stand against the infantry of the dolphins.
+
+人魚たちと同様、いるかなりの敵への敬意として人間の大半は殺された
+-
+As with the merfolk, most humans were slain as a gesture of respect toward a worthy enemy.
+
+少数の人間が、慣れない陸上生活を補助させる目的でどれいとして生かされた
+-
+A few humans were spared as slaves to assist with the unfamiliar life on land.
+
+キュイプロスもまた、いるかに占領された土地のひとつだった
+-
+Cyiprus was one of the lands conquered by the dolphins.
+
+永遠を想起させる途方もない砂漠と、対岸の見えないほどの大河に挟まれた、巨大な都市国家
+-
+A vast city-state between an endless desert and a river so great that one could not see the other bank.
+
+人間のどれい（いるかのどれいはいないから、すこし妙な表現だ）が最も多い都市でもあった
+-
+It was the home to the majority of the remaining human slaves.
+
+キュイプロスのどれいに、ペネタと呼ばれる女がいた
+-
+Among the slaves of Cyprus was a woman called Penetta.
+
+かつて、ペネタは高位の司祭だった。いまでは朝から夜までいるかのうろこ磨きをしている
+-
+Penetta was once a high priestess. Now, she cleaned dolphin scales from morning till night.
+
+うろこ磨きはキュイプロスのどれいに固有の仕事だ
+-
+Cleaning scales was a job unique to Cyprus slaves.
+
+キュイプロスを吹き抜ける川風は砂を巻き上げ、いるか市民のうろこの隙間を砂で埋め尽くす
+-
+The river winds that blew through Cyprus stirred up the sand, dirtying the scales of the dolphins.
+
+そのまま水を浴びると、水を吸った砂はうろこの隙間へ入りこんで皮膚にへばりつき、炎症を引き起こす
+-
+If they got wet, sand would seep into the gaps between the scales, sticking to the skin and causing inflammation.
+
+ゆえに、沐浴場を訪れるいるかは、どれいにうろこを磨かせ、砂を落としてからつめたい水に浸かるのだ
+-
+Therefore, when a dolphin visited the baths, it had a servant clean its scales to remove the sand before bathing.
+
+このときばかりは、人間の細くしなやかな手が役に立つ
+-
+In this case, the humans' slender and flexible hands came in handy.
+
+うろこ磨きは、どれいがいるかに直接触れることが許された数少ない仕事だった
+-
+These cleanings were the only times that the humans were able to touch the dolphins.
+
+ペネタはその日も沐浴場で、何百ものいるかを相手にうろこを磨いた
+-
+That day, Penetta was working in the baths, cleaning the scales of hundreds of dolphins.
+
+最後のいるかの相手を終えると、ペネタはいるかのいなくなった沐浴場で汗まみれの身体を洗った
+-
+After finishing the last dolphin, Penetta washed herself clean in the empty bath.
+
+それも終わると沐浴場の掃除をはじめた。つらい仕事だが、ひとりになれる貴重な時間だった
+-
+She then began cleaning the bath area. It was difficult, but provided precious solitude.
+
+水を抜いて浴槽を拭いていると、足先になにか硬くつめたいものが触れた
+-
+As she drained and wiped down the bathtub, she felt a cool, hard object under her foot.
+
+手のひらほどの大きさの、きらきらひかる五角形。剥がれ落ちたいるかのうろこだった
+-
+A glittering pentagon the size of a palm. It was a shedded dolphin scale.
+
+ペネタはうろこを拾い上げると、とっさに服の裏側へ隠した。周囲にはだれもいなかった
+-
+Penetta picked up the scale and hid it inside her clothes. No one else was around to see her.
+
+月下、ペネタはどれいの居住区へと帰った。門番のいるかも彼女を気に留めなかった
+-
+Under the moonlight, Penetta returned to the slave quarters. The gatekeeper paid her no attention.
+
+どれいたちが眠る部屋を音を立てないように歩き、部屋の隅、小さな葦の敷物に横になった
+-
+She walked quietly around the sleeping slaves and lay down on a small reed mat in the corner.
+
+そっと胸元からうろこを取り出した。月に透かすと、貝の内側のような薄い虹色の模様が浮かんだ
+-
+She gently pulled out the scale. When she held it up to the moon, it shone with an iridescent light.
+
+翌日、仕事が終わり部屋に戻ると、ペネタは敷物の裏に隠したうろこを取り出した
+-
+The next day, Peneta returned to her room and retrived the scale from under the rug.
+
+それから、帰り道にごみ捨て場で拾った鉄片でこつこつとうろこを削り始めた
+-
+Every day after work, she began to carve the scale with a piece of iron from the dump.
+
+なにか目的があったわけではないが、それはペネタの習慣になった
+-
+She didn't have a particular reason to do it, but it helped to pass the time.
+
+眠る前のささやかな作業が積み重なり、うろこからは美しい流線型が掘り出された
+-
+Over time the scale began to take shape, as Peneta honed its form.
+
+流線型の片側の先端をさらに削ると、どうやらいるかのように見えなくもない
+-
+She started to carve details into the scale.
+
+それで、目と尾びれとくちばしを掘った。これでペネタの手元には、小さないるかがいる
+-
+She carved out eyes, a tail and a beak. Finally, Penetta had a miniature dolphin in her hands.
+
+ああ、なんだかおかしくてたまらない。部屋の隅で、ペネタはずいぶん久しぶりに笑った
+-
+How ironic. In the corner of the room, Penetta laughed for the first time in many years.
+
+ペネタはいるかの彫刻をこっそり持ち歩くようになった。お守りのようなものだ
+-
+Penetta began secretly carrying around the minature dolphin, similar to how one would carry a talisman. 
+
+そしてときどき、沐浴場で剥がれたうろこを見つけると持ち帰り、時間をかけて作品を仕上げた
+-
+Whenever she found another scale in the bath, she would bring it home and carve another figure.
+
+「これは、どうやら私たちのうろこと同じ材質のようだね。君が作ったのか？」
+-
+"These seem to be made of the same material as our scales. Did you make them?"
+
+気を抜いていた。ペネタはうろこ磨きの最中、いるかの彫刻をいるかの目の前で落とした
+-
+She had not been paying attention. Penetta dropped the figure right in front of the dolphin she had been cleaning.
+
+これは、なんの罪にあたるのだろう。わたしは殺されるのだろうか。どれいの命は安い
+-
+She feared for her life. Was this a crime? Would she be killed? The life of a slave was a cheap one.
+
+どうにか誤魔化すことはできないだろうか。しかしこれは、どうしてもわたしが作ったものだ
+-
+Was there any way to deny it? No, it was clearly something she had made.
+
+「わたしが作りました。浴槽に落ちていたうろこを削って作りました」
+-
+"I made it. I carved it out of a dolphin scale I found in the baths."
+
+結局、ペネタはその場しのぎでも嘘をつかなかった。いるかはペネタと彫刻を交互に眺めた
+-
+Penetta was too scared to even lie. The dolphin looked back and forth between her and the figure.
+
+「ふうん、なかなかキュイキュイだ。君、私のためにも同じものを作りたまえよ」
+-
+"Hmm, it's very pretty. You will make one for me."
+
+いるかはばりりと自分のうろこを一枚剥がし、ペネタに手渡した
+-
+The dolphin peeled off one of its own scales and handed to Penetta.
+
+ペネタはできるかぎり急いでその仕事をこなした。そのいるかは、仲間に彫刻を自慢して回った
+-
+Penetta carved it as fast as she could. After it was complete, the dolphin showed it off to all its friends.
+
+やがてペネタのもとには、いるかからのうろこ彫刻の依頼が舞い込むようになった
+-
+Soon, Penetta recieved more requests to carve the dolphins' scales.
+
+ペネタはうろこを削り続けた。いつしか、うろこ磨きは別のどれいが担当するようになった
+-
+She continued to carve scales each day. At some point, another slave took over her tasks in the baths.
+
+ペネタの知らないところで、うろこを加工することがいるかたちの流行になった
+-
+Unknown to Penetta, her dolphin scale carvings became a trend among the dolphins.
+
+いまでは、うろこの装飾品や家具を持っていることが一種のステータスとなった
+-
+Owning her works had become a status symbol.
+
+多くのどれいや、いるかまでもがうろこの加工に駆り出された。ペネタはうろこを削り続けた
+-
+Many slaves and even dolphins began carving scales. Penetta continued fuffling the dolphins' requests.
+
+キュイプロスでは、巨大なうろこいるか像を建てるため、うろこの徴収が始まった
+-
+These carvings began to be collected in order to build a giant statue out of them in the middle of Cyprus.
+
+とうとう、うろこが足りなくなった。うろこがなければ奪えばいい
+-
+The supply of scales began to dwindle. Those greedy for more began to turn to thievery.
+
+世界各地でいるか同士の戦争が起きた。いるかもどれいもよく死んだ。ペネタはうろこを削り続けた
+-
+Wars began between dolphins all over the world. Many slaves died. Penetta continued to carve.
+
+ペネタのもとにうろこが届かなくなった。残ったうろこを仕上げると、久しぶりにやることがなくなった
+-
+Eventually, Penetta began to run out of scales. For the first time in a long while, she had nothing to do.
+
+「君、まだここにいるのか」いつしかのいるかが作業場までやってきた。うろこはわずかに残っている
+-
+"You're still here?" said a dolphin running by the workshop. Only a few scales remained.
+
+「うろこなんて削ってる場合じゃないぞ。ここもじきに戦場になる。逃げるんだ」
+-
+"Now is not the time to be carving. This place will soon be a battlefield. Run while you can."
+
+「どこへですか？」「知らないね。でも人間ならうろこ目当てで襲われることはないだろう」
+-
+"To where?" asked Penetta. "Who knows? But since you're human won't be hunted down for your scales," it replied.
+
+「あなたは？」「いるかはもうどこへ行ったって同じだね」 
+-
+"And as for you?" The dolphin sighed. "At this point, it doesn't matter where dolphins go anymore."
+
+ペネタは川沿いに下流へ逃げた。やがて、ペネタと似たような境遇の人間の集団と合流した
+-
+Penetta ran along the river, eventually join a group of people downstream in a similar situation.
+
+噂によると、いるか同士で疲弊しているこの機に乗じて、人間のレジスタンスが攻勢に出たらしい
+-
+The human resistance would later take advantage of the dolphins' exhaustion and launch an offensive.
+
+長い旅の果て、海辺の小さな村にたどり着いた。いるかはいなかった
+-
+After a long journey, they arrived at a small village near the shore, far from the dolphins.
+
+ペネタたちは村で暮らすようになった。ペネタは漁師となった
+-
+Penetta and the rest of the group began living in the village, and she eventually became a fisherman.
+
+ある日の漁の終わり、水面からうろこのないいるかが顔を出した。「どうも。すこしよろしいですか」
+-
+At the end of one fishing trip, a scaleless dolphin surfaced from the water. "Do you have a minute?"
+
+「いるかの国はすべて崩壊しました。いるかはもう戦う気はないと、どうか人々に伝えてください」
+-
+"All of the dolphin nations have collapsed. Can you tell the people that we no longer wish to fight?"
+
+「わかりました」「キュイキュイ。きっと約束ですよ」いるかはのろのろと遠くへ泳いでいった
+-
+"I will," replied Penetta. "I promise," the dolphin sqeaked, then slowly swam off into the distance.
+
+####################
+# ENDING DIALOUGES #
+####################
+
+ウミボウズいるか
+深海に生息する巨大ないるか。生涯で3度だけ、呼吸のために水面へ浮上する
+-
+SEA DOLPHIN
+A giant deep-sea dolphin that only comes to the surface to breathe
+three times in its life.
+
+いるかタリスマン
+いるかを象ったような古いタリスマン
+世界各地の遺跡から同様のものが発掘されている
+-
+DOLPHIN TALISMAN
+An old talisman in the shape of a dolphin.
+Similar items have been excavated from ruins around the world.
+
+古代いるか
+かつて地上に進出し、わたしたちの遠き祖先を支配した
+尾びれで歩行できる
+身体が宝石のようなうろこで覆われている
+-
+ANCIENT DOLPHIN
+They once emerged on land and conquered our distant ancestors,
+could walk using their tail fins, and had bodies covered in
+iridescent scales.
+
+ポストいるか
+いるかのあとにくるいるか
+非常に温厚な性格で人間のこともあまり食べない
+-
+POST DOLPHIN
+The dolphin that came after the ancient dolphin.
+It has a very gentle personality and doesn't eat
+humans as much.
+
+いるか
+現代のいるか。つるつるしている
+おもに湖や川に生息し、美しい歌声で人間をおびき寄せ
+水底へ引きずり込んでから食べる
+-
+DOLPHIN
+A modern-day dolphin.
+It's slippery and lives in lakes and rivers. 
+It lures humans with its beautiful singing voice, 
+drags them to the bottom of the water, then eats them.
+
+いるかビスケット
+ノーアキュイ遺跡前のお土産屋で12個入りが売っている
+味はミルクとガーリックと抹茶の3種類
+まれに古代いるかビスケットが入っている
+-
+DOLPHIN BISCUITS
+A box of 12 is sold at the souvenir shop in front of the Noaqui ruins.
+It comes in three flavors: milk, garlic, and matcha.
+Occasionally, it contains ancient dolphin biscuits.
+
+いるかナイフ
+いるかを模したナイフ
+突き刺す用途に特化しているが
+鍔がないので握る手が背びれの部分にぶつかって痛い
+-
+DOLPHIN KNIFE
+A knife modeled after a dolphin.
+It is designed for stabbing, but since it has no guard 
+the hand gripping it hits the dorsal fin, causing pain.
+
+太ったいるか
+貨物船が座礁し、およそ5万トンのココナッツオイルが流出した
+飢えたいるかたちが集まり、一帯は地獄と化した
+-
+FAT DOLPHIN
+A cargo ship ran aground, spilling 50,000 tons of coconut oil.
+Hungry dolphins gathered around and hell broke loose.
+
+いるか骨格図
+ホンスー博士のスケッチより。後ろのほうにある小さいのは骨盤のなごり
+-
+DOLPHIN SKELETON DIAGRAM
+From a sketch by Dr. Hong Su.
+The small thing at the back is the remnant of a pelvis.
+
+いるか犬
+いるかの犬。おもに山林に分布
+腐った木をほじくって小さい虫を食べて暮らす
+-
+DOLPHIN DOG
+A dolphin dog. 
+They are primarily found in mountain forests. 
+It scavenges and eats small insects from rotten wood.
+
+いるか壁画
+ノーアキュイ遺跡で発見された
+キュイア様式の壁画の一部を復元したもの
+いるかが人間を支配する様を描いたとされる
+-
+DOLPHIN MURAL
+A partial reconstruction of a Quia-style mural
+discovered at the Noaqui ruins.
+It is said to depict dolphins dominating humans.
+
+幼いいるか
+生まれてまもないいるか
+親いるかのとってきた人間を食べてすくすく育つ
+-
+YOUNG DOLPHIN
+A newly born dolphin. It will grow up fast,
+eating the humans caught by its parents.
+
+いるかにうろこがないわけ
+制作：月刊湿地帯
+終わり
+-
+
+うろこ戦争以降、現在に至るまで
+うろこを持ついるかは目撃されていない
+\\
+ペネタの体験を元にしたという『うろこ伝説』は
+地域ごとに差異はあれど
+キュイア全域の伝承に残っている
+\\
+通説としては、いるかにうろこがないのは
+水中生活の邪魔になる重たいうろこを持つ個体が
+淘汰されていったためだと考えられている
+-
+
+参考文献
+『キュイア民話集』
+『キュイアの伝承』
+『キュイプロスとノーアキュイ 二大キュイア遺跡にせまる』
+『歴史よりみちシリーズ13 いるかタリスマンの謎』
+『ホンスー博士、いるかを語る』
+『スーパーいるか図鑑』
+-
+
+いるかにうろこがないわけ
+制作：月刊湿地帯
+終わり
+-
+
