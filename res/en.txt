@@ -672,8 +672,8 @@ no dolphin with scales has ever been sighted.
 The Legend of the Scale, said to be based on Peneta's experience,
 remains in the lore of all Squeea, though with variations in each region.
 \\
-The prevailing theory is that dolphins lost
-their scales because individuals burdened with heavy armor
+The prevailing theory is that dolphins lost their
+scales because individuals burdened with heavy armor
 that hindered life underwater were naturally weeded out.
 
 参考文献
@@ -727,8 +727,7 @@ Similar items have been excavated from ruins all around the world.
 -
 ANCIENT DOLPHIN
 Once advanced onto land and ruled over our distant ancestors.
-Could walk using their tail fins, and had bodies covered in
-iridescent scales.
+Could walk using their tail fins, and had bodies covered in iridescent scales.
 
 ポストいるか
 いるかのあとにくるいるか
@@ -736,8 +735,7 @@ iridescent scales.
 -
 POST DOLPHIN
 The dolphin that came after the old dolphin.
-It has a very gentle personality and doesn't eat
-humans very often.
+It has a very gentle personality and doesn't eat humans very often.
 
 いるか
 現代のいるか。つるつるしている
@@ -747,7 +745,7 @@ humans very often.
 DOLPHIN
 The modern dolphin. Smooth and scaleless.
 Mainly inhabits lakes and rivers,
-luring humans with its beautiful singing voice,
+luring humans in with its beautiful singing voice,
 then dragging them to the depths to eat them.
 
 いるかビスケット
@@ -756,8 +754,7 @@ then dragging them to the depths to eat them.
 まれに古代いるかビスケットが入っている
 -
 DOLPHIN BISCUITS
-A box of 12 is sold at the souvenir shop
-in front of the Noa-Squee ruins.
+A box of 12 is sold at the souvenir shop in front of the Noa-Squee ruins.
 Comes in three flavors: milk, garlic, and matcha.
 Rarely, an Ancient Dolphin Biscuit is included.
 
@@ -769,8 +766,7 @@ Rarely, an Ancient Dolphin Biscuit is included.
 DOLPHIN KNIFE
 A knife shaped like an dolphin.
 Specialized for stabbing, but since it has no guard
-the wielder’s hand often strikes against
-the dorsal fin part, causing pain.
+the wielder’s hand often strikes against the dorsal fin part, causing pain.
 
 太ったいるか
 貨物船が座礁し、およそ5万トンのココナッツオイルが流出した
@@ -785,8 +781,7 @@ Hungry dolphins gathered around and hell broke loose.
 -
 DOLPHIN SKELETON DIAGRAM
 From Dr. Honsuu’s sketches.
-The small piece on the pole in the back
-is the vestige of a pelvis.
+The small piece on the pole in the back is the vestige of a pelvis.
 
 いるか犬
 いるかの犬。おもに山林に分布
@@ -795,8 +790,7 @@ is the vestige of a pelvis.
 DOLPHIN DOG
 A dolphin dog.
 Mainly found in forests and mountains.
-Lives by digging into rotten wood
-and eating small insects.
+Lives by digging into rotten wood and eating small insects.
 
 いるか壁画
 ノーアキュイ遺跡で発見された
@@ -813,5 +807,7 @@ Said to depict the dolphin ruling over humans.
 親いるかのとってきた人間を食べてすくすく育つ
 -
 YOUNG DOLPHIN
-A newborn dolphin. Grows up fast by
-eating the humans caught by its parents.
+A newborn dolphin.
+Grows up fast by eating the humans caught by its parents.
+
+-
