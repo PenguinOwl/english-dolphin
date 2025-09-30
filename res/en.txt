@@ -409,7 +409,7 @@ They carried iron weapons and were armed with their own adamantine scales.
 
 ようやく火の扱いを覚えたばかりの人間が、統制された重装歩兵たるいるかに敵うはずもなかった
 -
-Mankind, who had only just mastered fire, could not stand against the infantry of the dolphins.
+Mankind, who had only just mastered fire, could not defend against the infantry of the dolphins.
 
 人魚たちと同様、いるかなりの敵への敬意として人間の大半は殺された
 -
@@ -417,11 +417,11 @@ As with the merfolk, most humans were slain as a gesture of respect toward a wor
 
 少数の人間が、慣れない陸上生活を補助させる目的でどれいとして生かされた
 -
-A few humans were spared as slaves to assist with the unfamiliar life on land.
+The few remaining were spared as slaves to assist with the unfamiliar life on land.
 
 キュイプロスもまた、いるかに占領された土地のひとつだった
 -
-Cyiprus was one of the lands conquered by the dolphins.
+Squeeden was one of the lands conquered by the dolphins.
 
 永遠を想起させる途方もない砂漠と、対岸の見えないほどの大河に挟まれた、巨大な都市国家
 -
@@ -429,23 +429,23 @@ A vast city-state between an endless desert and a river so great that one could 
 
 人間のどれい（いるかのどれいはいないから、すこし妙な表現だ）が最も多い都市でもあった
 -
-It was the home to the majority of the remaining human slaves.
+It was the home to the majority of the humans that remained as slaves.
 
 キュイプロスのどれいに、ペネタと呼ばれる女がいた
 -
-Among the slaves of Cyprus was a woman called Penetta.
+Among the slaves of Squeeden was a woman named Peneta.
 
 かつて、ペネタは高位の司祭だった。いまでは朝から夜までいるかのうろこ磨きをしている
 -
-Penetta was once a high priestess. Now, she cleaned dolphin scales from morning till night.
+Peneta had once been a high priestess. Now she spent her days brushing dolphin scales.
 
 うろこ磨きはキュイプロスのどれいに固有の仕事だ
 -
-Cleaning scales was a job unique to Cyprus slaves.
+Scale brushing was a job unique to Squeeden slaves.
 
 キュイプロスを吹き抜ける川風は砂を巻き上げ、いるか市民のうろこの隙間を砂で埋め尽くす
 -
-The river winds that blew through Cyprus stirred up the sand, dirtying the scales of the dolphins.
+The river winds that blew through Squeeden stirred up the sand, dirtying the scales of the dolphins.
 
 そのまま水を浴びると、水を吸った砂はうろこの隙間へ入りこんで皮膚にへばりつき、炎症を引き起こす
 -
@@ -457,43 +457,43 @@ Therefore, when a dolphin visited the baths, it had a servant clean its scales t
 
 このときばかりは、人間の細くしなやかな手が役に立つ
 -
-In this case, the humans' slender and flexible hands came in handy.
+At such times, the humans' slender and flexible hands proved to be useful.
 
 うろこ磨きは、どれいがいるかに直接触れることが許された数少ない仕事だった
 -
-These cleanings were the only times that the humans were able to touch the dolphins.
+During a brushing was the only time that humans were allowed to touch the dolphins directly.
 
 ペネタはその日も沐浴場で、何百ものいるかを相手にうろこを磨いた
 -
-That day, Penetta was working in the baths, cleaning the scales of hundreds of dolphins.
+That day, Peneta was working in the baths, brushing the scales of countless dolphins.
 
 最後のいるかの相手を終えると、ペネタはいるかのいなくなった沐浴場で汗まみれの身体を洗った
 -
-After finishing the last dolphin, Penetta washed herself clean in the empty bath.
+After finishing up with the last dolphin, Peneta washed herself in the empty bath.
 
 それも終わると沐浴場の掃除をはじめた。つらい仕事だが、ひとりになれる貴重な時間だった
 -
-She then began cleaning the bath area. It was difficult, but provided precious solitude.
+Finally, she began cleaning the bath area. It was a difficult task, but provided precious solitude.
 
 水を抜いて浴槽を拭いていると、足先になにか硬くつめたいものが触れた
 -
-As she drained and wiped down the bathtub, she felt a cool, hard object under her foot.
+As she drained and wiped down the bath, she felt a cool, hard object under her foot.
 
 手のひらほどの大きさの、きらきらひかる五角形。剥がれ落ちたいるかのうろこだった
 -
-A glittering pentagon the size of a palm. It was a shedded dolphin scale.
+A glittering pentagon, the size of her palm: a shedded dolphin scale.
 
 ペネタはうろこを拾い上げると、とっさに服の裏側へ隠した。周囲にはだれもいなかった
 -
-Penetta picked up the scale and hid it inside her clothes. No one else was around to see her.
+Making sure no one was around, Peneta picked up the scale and hid it underneath her clothes.
 
 月下、ペネタはどれいの居住区へと帰った。門番のいるかも彼女を気に留めなかった
 -
-Under the moonlight, Penetta returned to the slave quarters. The gatekeeper paid her no attention.
+By moonlight, Peneta returned to the slaves' quarters. The gatekeeper paid her no heed.
 
 どれいたちが眠る部屋を音を立てないように歩き、部屋の隅、小さな葦の敷物に横になった
 -
-She walked quietly around the sleeping slaves and lay down on a small reed mat in the corner.
+She stepped quietly past the sleeping slaves and laid down on a small reed mat in the corner.
 
 そっと胸元からうろこを取り出した。月に透かすと、貝の内側のような薄い虹色の模様が浮かんだ
 -
@@ -501,11 +501,11 @@ She gently pulled out the scale. When she held it up to the moon, it shone with 
 
 翌日、仕事が終わり部屋に戻ると、ペネタは敷物の裏に隠したうろこを取り出した
 -
-The next day, Peneta returned to her room and retrived the scale from under the rug.
+The next day, Peneta returned to her room and retrived the scale from under the mat.
 
 それから、帰り道にごみ捨て場で拾った鉄片でこつこつとうろこを削り始めた
 -
-Every day after work, she began to carve the scale with a piece of iron from the dump.
+Every day after work, she began to carve the scale with a discarded piece of iron she had found.
 
 なにか目的があったわけではないが、それはペネタの習慣になった
 -
@@ -521,15 +521,15 @@ She started to carve details into the scale.
 
 それで、目と尾びれとくちばしを掘った。これでペネタの手元には、小さないるかがいる
 -
-She carved out eyes, a tail and a beak. Finally, Penetta had a miniature dolphin in her hands.
+She carved out eyes, a tail and a beak. In the end, Peneta held a miniature dolphin in her hands.
 
 ああ、なんだかおかしくてたまらない。部屋の隅で、ペネタはずいぶん久しぶりに笑った
 -
-How ironic. In the corner of the room, Penetta laughed for the first time in many years.
+How ironic. In the corner of the room, Peneta laughed for the first time in many years.
 
 ペネタはいるかの彫刻をこっそり持ち歩くようになった。お守りのようなものだ
 -
-Penetta began secretly carrying around the minature dolphin, similar to how one would carry a talisman. 
+Peneta began secretly carrying around the minature dolphin, similar to how one would carry a talisman. 
 
 そしてときどき、沐浴場で剥がれたうろこを見つけると持ち帰り、時間をかけて作品を仕上げた
 -
@@ -541,7 +541,7 @@ Whenever she found another scale in the bath, she would bring it home and carve 
 
 気を抜いていた。ペネタはうろこ磨きの最中、いるかの彫刻をいるかの目の前で落とした
 -
-She had not been paying attention. Penetta dropped the figure right in front of the dolphin she had been cleaning.
+She had not been paying attention. Peneta dropped the figure right in front of the dolphin she had been cleaning.
 
 これは、なんの罪にあたるのだろう。わたしは殺されるのだろうか。どれいの命は安い
 -
@@ -557,7 +557,7 @@ Was there any way to deny it? No, it was clearly something she had made.
 
 結局、ペネタはその場しのぎでも嘘をつかなかった。いるかはペネタと彫刻を交互に眺めた
 -
-Penetta was too scared to even lie. The dolphin looked back and forth between her and the figure.
+Peneta was too scared to even lie. The dolphin looked back and forth between her and the figure.
 
 「ふうん、なかなかキュイキュイだ。君、私のためにも同じものを作りたまえよ」
 -
@@ -565,15 +565,15 @@ Penetta was too scared to even lie. The dolphin looked back and forth between he
 
 いるかはばりりと自分のうろこを一枚剥がし、ペネタに手渡した
 -
-The dolphin peeled off one of its own scales and handed to Penetta.
+The dolphin peeled off one of its own scales and handed to Peneta.
 
 ペネタはできるかぎり急いでその仕事をこなした。そのいるかは、仲間に彫刻を自慢して回った
 -
-Penetta carved it as fast as she could. After it was complete, the dolphin showed it off to all its friends.
+Peneta carved it as fast as she could. After it was complete, the dolphin showed it off to all its friends.
 
 やがてペネタのもとには、いるかからのうろこ彫刻の依頼が舞い込むようになった
 -
-Soon, Penetta recieved more requests to carve the dolphins' scales.
+Soon, Peneta recieved more requests to carve the dolphins' scales.
 
 ペネタはうろこを削り続けた。いつしか、うろこ磨きは別のどれいが担当するようになった
 -
@@ -581,7 +581,7 @@ She continued to carve scales each day. At some point, another slave took over h
 
 ペネタの知らないところで、うろこを加工することがいるかたちの流行になった
 -
-Unknown to Penetta, her dolphin scale carvings became a trend among the dolphins.
+Unknown to Peneta, her dolphin scale carvings became a trend among the dolphins.
 
 いまでは、うろこの装飾品や家具を持っていることが一種のステータスとなった
 -
@@ -589,11 +589,11 @@ Owning her works had become a status symbol.
 
 多くのどれいや、いるかまでもがうろこの加工に駆り出された。ペネタはうろこを削り続けた
 -
-Many slaves and even dolphins began carving scales. Penetta continued fuffling the dolphins' requests.
+Many slaves and even dolphins began carving scales. Peneta continued fulfilling the dolphins' requests.
 
 キュイプロスでは、巨大なうろこいるか像を建てるため、うろこの徴収が始まった
 -
-These carvings began to be collected in order to build a giant statue out of them in the middle of Cyprus.
+These carvings began to be collected in order to build a giant statue out of them in the middle of Squeeden.
 
 とうとう、うろこが足りなくなった。うろこがなければ奪えばいい
 -
@@ -601,11 +601,11 @@ The supply of scales began to dwindle. Those greedy for more began to turn to th
 
 世界各地でいるか同士の戦争が起きた。いるかもどれいもよく死んだ。ペネタはうろこを削り続けた
 -
-Wars began between dolphins all over the world. Many slaves died. Penetta continued to carve.
+Wars began between dolphins all over the world. Many slaves died. Peneta continued to carve.
 
 ペネタのもとにうろこが届かなくなった。残ったうろこを仕上げると、久しぶりにやることがなくなった
 -
-Eventually, Penetta began to run out of scales. For the first time in a long while, she had nothing to do.
+Eventually, Peneta began to run out of scales. For the first time in a long while, she had nothing to do.
 
 「君、まだここにいるのか」いつしかのいるかが作業場までやってきた。うろこはわずかに残っている
 -
@@ -617,7 +617,7 @@ Eventually, Penetta began to run out of scales. For the first time in a long whi
 
 「どこへですか？」「知らないね。でも人間ならうろこ目当てで襲われることはないだろう」
 -
-"To where?" asked Penetta. "Who knows? But since you're human won't be hunted down for your scales," it replied.
+"To where?" asked Peneta. "Who knows? But since you're human won't be hunted down for your scales," it replied.
 
 「あなたは？」「いるかはもうどこへ行ったって同じだね」 
 -
@@ -625,7 +625,7 @@ Eventually, Penetta began to run out of scales. For the first time in a long whi
 
 ペネタは川沿いに下流へ逃げた。やがて、ペネタと似たような境遇の人間の集団と合流した
 -
-Penetta ran along the river, eventually join a group of people downstream in a similar situation.
+Peneta ran along the river, eventually join a group of people downstream in a similar situation.
 
 噂によると、いるか同士で疲弊しているこの機に乗じて、人間のレジスタンスが攻勢に出たらしい
 -
@@ -637,7 +637,7 @@ After a long journey, they arrived at a small village near the shore, far from t
 
 ペネタたちは村で暮らすようになった。ペネタは漁師となった
 -
-Penetta and the rest of the group began living in the village, and she eventually became a fisherman.
+Peneta and the rest of the group began living in the village, and she eventually became a fisherman.
 
 ある日の漁の終わり、水面からうろこのないいるかが顔を出した。「どうも。すこしよろしいですか」
 -
@@ -649,7 +649,7 @@ At the end of one fishing trip, a scaleless dolphin surfaced from the water. "Do
 
 「わかりました」「キュイキュイ。きっと約束ですよ」いるかはのろのろと遠くへ泳いでいった
 -
-"I will," replied Penetta. "I promise," the dolphin sqeaked, then slowly swam off into the distance.
+"I will," replied Peneta. "I promise," the dolphin sqeaked, then slowly swam off into the distance.
 
 ####################
 # ENDING DIALOUGES #
