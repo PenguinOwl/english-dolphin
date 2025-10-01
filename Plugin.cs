@@ -136,7 +136,6 @@ class Patch03
             return;
         if (!value)
             return;
-        Plugin.Logger.Log(LogLevel.Info, "meOW - " + __instance.name + ", " + value);
 
         SpriteRenderer renderer = __instance.GetComponent<SpriteRenderer>();
         renderer.drawMode = SpriteDrawMode.Sliced;
@@ -145,3 +144,4 @@ class Patch03
     }
 
 }
+
